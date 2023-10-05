@@ -48,6 +48,6 @@ public class Server {
 
         //start the server
         server.start();
-        System.out.println("Server Started! Visit http://localhost:" + port + " to visit.");
+        System.out.println("Server Started!");
     }
 }
